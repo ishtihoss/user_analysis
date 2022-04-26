@@ -1,2 +1,2 @@
 # user_analysis
-user analysis
+Analysing user behaviour on a fintech app
