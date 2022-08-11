@@ -10,12 +10,12 @@ library(tidyr)
 
 # load user data
 
-pre_spike_user_mv <- read_csv("D:/BigPay data and scripts/24th Feb tier based quality assessment/pre_spike_user_mv.csv")
-post_spike_user_mv <- read_csv("D:/BigPay data and scripts/24th Feb tier based quality assessment/post_spike_user_mv.csv")
+pre_spike_user_mv <- read_csv("D:/data and scripts/24th Feb tier based quality assessment/pre_spike_user_mv.csv")
+post_spike_user_mv <- read_csv("D:/data and scripts/24th Feb tier based quality assessment/post_spike_user_mv.csv")
 
 # load comprehensive merchant data
 
-merchant_comprehensive <- read_csv("D:/BigPay data and scripts/24th Feb tier based quality assessment/merchant_comprehensive.csv")
+merchant_comprehensive <- read_csv("D:/data and scripts/24th Feb tier based quality assessment/merchant_comprehensive.csv")
 
 # add month
 
